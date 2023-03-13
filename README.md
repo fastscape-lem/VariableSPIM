@@ -2,7 +2,7 @@
 Variable Discharge Stream Power Incision Model
 
 This repository contains the code for a FastScape process that includes the effect of discharge variability arising from a variable rainfall on erosional efficiency assuming a discharge threshold that may depend on slope. The full mathematical description of the model can be obtained from the following preprint of a manuscript submitted to JGR-Earth Surface on February 28, 2023:
-[Archive Doc][Link text Here](https://link-url-here.org))
+[Archive Doc](https://essopenarchive.org/doi/full/10.22541/essoar.167810329.99741471/v1)
 
 The main inputs to the model are:
 - daily rainfall frequency

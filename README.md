@@ -14,5 +14,6 @@ The main inputs to the model are:
 - recession exponent (values of b=1 or b=2 only implemented)
 - threshold erosion rate (rescaled discharge threshold)
 - slope dependence of threshold (exponent)
+
 in addition to the usual SPIM slope (n) and area (m) exponents and the rate coefficient, Kf
 
